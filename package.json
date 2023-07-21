@@ -1,0 +1,15 @@
+{
+  "name": "spotify-gigih-2.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Daniel Halim W",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
